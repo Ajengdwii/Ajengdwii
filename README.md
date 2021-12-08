@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajengdwii
 - 👀 I’m interested in Machine Learning, Data Analytics and Software engineering 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning about Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ajeng-dwi-hasanah/
 
